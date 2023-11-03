@@ -1,0 +1,15 @@
+DESCRIÇÃO
+Neste desafio utilizando seus conhecimentos do módulo de API e Entity Framework da trilha .NET 
+você desenvolverá um sistema gerenciador de tarefas, onde seja possível cadastrar uma lista de tarefas que 
+permitirá organizar melhor a sua rotina.
+
+#.NET#C#Git#GitHub
+
+Materiais de Apoio
+ 
+GitHub
+Todo código-fonte desenvolvido durante o curso foi versionado no GitHub, no seguinte endereço:
+
+https://github.com/digitalinnovationone/trilha-net-api-desafio
+
+Bons estudos! wink

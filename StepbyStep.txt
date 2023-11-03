@@ -1,0 +1,9 @@
+Step 1
+Inserir a conexão da API no arquivo appsettings.Development.json
+do tipo "Server=localhost\\sqlexpress; Initial Catalog=Agenda; Integrated Security=true"
+onde Initial Catalog=Agenda; sendo Agenda o nome do DB;
+
+matar porcessos dotnet no terminal do vscode:
+taskkill /im dotnet.exe /f
+
+
